@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <h1>
-        React Topics
+        React
       </h1>
       <Link to={"/blog"}>React Router - Blog Post</Link>
       <br />
